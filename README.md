@@ -2,7 +2,7 @@
 <h1 align="center">Hi! My name is Weslei Ramos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <h4 align="center">
-		I'm a Information Technology student and an aspiring web developer.
+		I'm an Information Technology student and an aspiring web developer.
 </h4>
 
 <br>
@@ -20,14 +20,14 @@
 
 
 
-### 👉  Frontend Development
+### 👉  Frontend development
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=FFF&color:FFF) ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=FFF&color:FFF)  ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs&logoColor=FFF&color:FFF) ![React,js](https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react&logoColor=FFF&color:FFF) ![styled-components](https://img.shields.io/badge/styled--components-000?style=for-the-badge&logo=styled-components&logoColor=FFF&color:FFF)
 
 <br>
 
-## 📊 Github Stats (Expand to view)
+## 📊 Github stats (expand to view)
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 GitHub profile stats</b></summary>
   <br/>
   <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleiRamos&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleiRamos&layout=compact&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&count_private=true)](https://github.com/elidianaandrade/github-readme-stats"/>
